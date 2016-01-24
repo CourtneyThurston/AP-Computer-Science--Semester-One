@@ -1,0 +1,26 @@
+#BlueJ package file
+package.editor.height=400
+package.editor.width=560
+package.editor.x=248
+package.editor.y=615
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+readme.editor.height=700
+readme.editor.width=900
+readme.editor.x=189
+readme.editor.y=220
+target1.editor.height=699
+target1.editor.width=900
+target1.editor.x=346
+target1.editor.y=228
+target1.height=50
+target1.name=TextMessage
+target1.naviview.expanded=true
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=100
+target1.x=70
+target1.y=10

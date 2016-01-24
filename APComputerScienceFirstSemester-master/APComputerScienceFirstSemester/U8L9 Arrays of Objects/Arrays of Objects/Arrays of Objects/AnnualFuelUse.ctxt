@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=fillNumber\ endMiles\ startMiles\ galsUsed\ priceGal
+comment0.target=AnnualFuelUse(int,\ double,\ double,\ double,\ double)
+comment1.params=
+comment1.target=double\ getDistance()
+comment2.params=
+comment2.target=double\ getMPG()
+comment3.params=
+comment3.target=double\ getGPM()
+comment4.params=
+comment4.target=double\ getTotalCost()
+comment5.params=minMaxVariable
+comment5.target=double\ min(double[])
+comment6.params=minMaxVariable
+comment6.target=double\ max(double[])
+comment7.params=totalVariable
+comment7.target=double\ totalOf(double[])
+comment8.params=days\ annualVariable
+comment8.target=double\ annualProjection(double[],\ double)
+numComments=9

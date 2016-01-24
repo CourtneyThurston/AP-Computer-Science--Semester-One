@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=CO2FootprintV1Tester(double)
+comment0.text=\r\n\ Default\ constructor\r\n\ @param\ a\r\n
+comment1.params=
+comment1.target=void\ C02EmissionsCalc()
+comment1.text=\r\n\ Finds\ the\ CO2\ emissions\ from\ the\ tank\ in\ various\ units\r\n
+comment2.params=
+comment2.target=double\ getTonsOfCO2()
+comment2.text=\r\n\ Returns\ CO2\ emissions\ in\ tons\r\n\ @return\ tonsOfCO2\r\n
+comment3.params=
+comment3.target=double\ getPoundsOfCO2()
+comment3.text=\r\n\ Returns\ CO2\ emissions\ in\ pounds\r\n\ @return\ poundsOfCO2\r\n
+numComments=4

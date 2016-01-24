@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=CO2FromElectricityTester(double,\ double)
+comment1.params=
+comment1.target=void\ CO2Emmisions()
+comment2.params=
+comment2.target=double\ getCO2Emmisions()
+comment3.params=
+comment3.target=double\ getBill()
+comment4.params=
+comment4.target=double\ getPrice()
+numComments=5
